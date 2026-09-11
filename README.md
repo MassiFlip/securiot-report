@@ -654,7 +654,7 @@ Todas las entrevistas y respectivas grabaciones fueron almacenadas en **Google D
 
 **Evidencia de entrevista**
 
-![Entrevista a Marco Salvador](docs/assets/chapter2/interviews/marco-salvador.png)
+![Entrevista a Marco Salvador](docs/assets/chaper1/IMGs/members/marco-salvador.png)
 
 **Resumen de la entrevista**
 
@@ -683,7 +683,7 @@ También manifestó preocupación respecto a las falsas alarmas, debido a que un
 
 **Evidencia de entrevista**
 
-![Entrevista a Aldair Salas](docs/assets/chapter2/interviews/aldair-salas.png)
+![Entrevista a Aldair Salas](docs/assets/chaper1/IMGs/members/aldair-salas.png)
 
 **Resumen de la entrevista**
 
@@ -712,7 +712,7 @@ En relación con SECURIOT, valoró especialmente la posibilidad de centralizar l
 
 **Evidencia de entrevista**
 
-![Entrevista a Dania Cárdenas](docs/assets/chapter2/interviews/dania-cardenas.png)
+![Entrevista a Dania Cárdenas](docs/assets/chaper1/IMGs/members/dania-cardenas.png)
 
 **Resumen de la entrevista**
 
