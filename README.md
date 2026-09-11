@@ -635,7 +635,102 @@ La entrevista seguirá el siguiente orden:
 
 ### 2.2.2. Registro de entrevistas
 
-_Pendiente de desarrollo._
+En esta sección se presenta el registro de las entrevistas realizadas a representantes de los segmentos objetivo de SECURIOT. Para cada participante se incluyen sus datos generales, evidencia visual de la sesión, enlace a la grabación y un resumen descriptivo de los principales hallazgos obtenidos.
+
+Todas las entrevistas y respectivas grabaciones fueron almacenadas en **Google Drive**.
+
+#### Segmento 3: Gerente o Dueño de Pyme Industrial
+
+##### Entrevista 1: Marco Salvador
+
+| Dato | Información |
+|---|---|
+| **Nombres y apellidos** | Marco Salvador |
+| **Edad** | 20 años |
+| **Distrito** | _Pendiente de completar_ |
+| **Segmento** | Gerente o Dueño de Pyme Industrial |
+| **Medio de entrevista** | Google Meet |
+| **Fecha de entrevista** | _Pendiente de completar_ |
+| **Duración** | _Pendiente de completar_ |
+| **Video de la entrevista** | [Ver entrevista en Google Drive](https://drive.google.com/drive/folders/1jC7MRUZ4k6w8-7biKTMAuQqbS1o10VYm?usp=sharing) |
+
+**Evidencia de entrevista**
+
+![Entrevista a Marco Salvador](docs/assets/chapter2/interviews/marco-salvador.png)
+
+**Resumen de la entrevista**
+
+Marco Salvador tiene 20 años y participa en la administración de una pequeña empresa familiar del sector comercial, apoyando principalmente en actividades administrativas, supervisión de operaciones y toma de decisiones relacionadas con gastos y mejoras del negocio. Durante sus actividades utiliza principalmente un teléfono celular y una computadora, mientras que WhatsApp y el correo electrónico se encuentran entre sus principales medios de comunicación.
+
+Respecto a la seguridad patrimonial, señaló que una de sus principales preocupaciones es el ingreso de personas no autorizadas y la posibilidad de pérdida de productos o equipos. La empresa utiliza cámaras de seguridad, cerraduras y mecanismos de control de ingreso.
+
+Asimismo, indicó que cuando se encuentra fuera de las instalaciones depende principalmente de llamadas, mensajes o de la revisión de cámaras para conocer el estado de la empresa. Por este motivo, considera útil disponer de una herramienta que centralice la información y permita consultar remotamente el estado de la seguridad.
+
+Al evaluar nuevas tecnologías, considera importantes factores como la confiabilidad, el costo, la facilidad de instalación y el soporte. En relación con SECURIOT, destacó principalmente la utilidad de recibir alertas en tiempo real indicando qué ocurrió y en qué zona se produjo el evento.
+
+También manifestó preocupación respecto a las falsas alarmas, debido a que una cantidad excesiva de notificaciones incorrectas podría provocar que los usuarios dejen de prestar atención a las alertas.
+
+---
+
+##### Entrevista 2: Aldair Salas
+
+| Dato | Información |
+|---|---|
+| **Nombres y apellidos** | Aldair Salas |
+| **Edad** | 21 años |
+| **Distrito** | _Pendiente de completar_ |
+| **Segmento** | Gerente o Dueño de Pyme Industrial |
+| **Medio de entrevista** | Google Meet |
+| **Fecha de entrevista** | _Pendiente de completar_ |
+| **Duración** | _Pendiente de completar_ |
+| **Video de la entrevista** | [Ver entrevista en Google Drive](PEGAR_LINK_DE_GOOGLE_DRIVE) |
+
+**Evidencia de entrevista**
+
+![Entrevista a Aldair Salas](docs/assets/chapter2/interviews/aldair-salas.png)
+
+**Resumen de la entrevista**
+
+Aldair Salas tiene 21 años y participa en la administración de un negocio familiar dedicado a la distribución y comercialización de productos. Sus actividades se encuentran relacionadas principalmente con la organización de operaciones, compras, control de gastos y coordinación con el personal.
+
+Su principal preocupación en materia de seguridad se relaciona con la protección de las zonas donde se almacena mercadería y con evitar que personas ingresen a espacios para los que no poseen autorización.
+
+Actualmente se utilizan diferentes mecanismos de seguridad, como cámaras, cerraduras, iluminación y control humano de accesos. Uno de los problemas identificados es que las herramientas utilizadas se encuentran separadas entre sí, obligando a consultar distintas fuentes de información.
+
+Aldair considera beneficioso disponer de una plataforma que permita visualizar remotamente y desde un único lugar el estado de las diferentes instalaciones.
+
+En relación con SECURIOT, valoró especialmente la posibilidad de centralizar las alertas y mantener un registro automático de los incidentes. También considera importante que la plataforma sea sencilla de utilizar y que los usuarios reciban una adecuada capacitación para aprovechar sus funcionalidades.
+
+---
+
+##### Entrevista 3: Dania Cárdenas
+
+| Dato | Información |
+|---|---|
+| **Nombres y apellidos** | Dania Cárdenas |
+| **Edad** | 21 años |
+| **Distrito** | _Pendiente de completar_ |
+| **Segmento** | Gerente o Dueño de Pyme Industrial |
+| **Medio de entrevista** | Google Meet |
+| **Fecha de entrevista** | _Pendiente de completar_ |
+| **Duración** | _Pendiente de completar_ |
+| **Video de la entrevista** | [Ver entrevista en Google Drive](PEGAR_LINK_DE_GOOGLE_DRIVE) |
+
+**Evidencia de entrevista**
+
+![Entrevista a Dania Cárdenas](docs/assets/chapter2/interviews/dania-cardenas.png)
+
+**Resumen de la entrevista**
+
+Dania Cárdenas tiene 21 años y participa en la administración de una pequeña empresa familiar, apoyando principalmente en la coordinación de actividades, supervisión general de las operaciones y control de determinados gastos.
+
+Entre sus principales preocupaciones se encuentra el ingreso de personas no autorizadas a determinadas áreas y la protección de productos y equipos que permanecen dentro de las instalaciones.
+
+La empresa utiliza cámaras de seguridad, cerraduras y controles manuales de ingreso. Para comunicar situaciones fuera de lo habitual se utilizan principalmente llamadas telefónicas y aplicaciones de mensajería.
+
+Dania considera que uno de los principales problemas de los mecanismos tradicionales es que las cámaras permiten observar o revisar lo sucedido, pero siguen dependiendo de que una persona detecte que algo está ocurriendo.
+
+Respecto a SECURIOT, identificó las alertas inmediatas en dispositivos móviles como una de las funcionalidades de mayor valor. Considera que deberían comunicar de manera clara qué ocurrió y dónde ocurrió. Asimismo, considera importante disponer de un historial de incidentes que permita evaluar con el tiempo la efectividad de las medidas de seguridad.
 
 ### 2.2.3. Análisis de entrevistas
 
