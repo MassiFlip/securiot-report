@@ -650,9 +650,7 @@ Todas las entrevistas y respectivas grabaciones fueron almacenadas en **Google D
 | **Distrito** | _Pendiente de completar_ |
 | **Segmento** | Gerente o Dueño de Pyme Industrial |
 | **Medio de entrevista** | Google Meet |
-| **Fecha de entrevista** | _Pendiente de completar_ |
-| **Duración** | _Pendiente de completar_ |
-| **Video de la entrevista** | [Ver entrevista en Google Drive](https://drive.google.com/drive/folders/1jC7MRUZ4k6w8-7biKTMAuQqbS1o10VYm?usp=sharing) |
+| **Duración** |13:09 |
 
 **Evidencia de entrevista**
 
@@ -681,9 +679,7 @@ También manifestó preocupación respecto a las falsas alarmas, debido a que un
 | **Distrito** | _Pendiente de completar_ |
 | **Segmento** | Gerente o Dueño de Pyme Industrial |
 | **Medio de entrevista** | Google Meet |
-| **Fecha de entrevista** | _Pendiente de completar_ |
-| **Duración** | _Pendiente de completar_ |
-| **Video de la entrevista** | [Ver entrevista en Google Drive](PEGAR_LINK_DE_GOOGLE_DRIVE) |
+| **Duración** |14:42 |
 
 **Evidencia de entrevista**
 
@@ -712,9 +708,7 @@ En relación con SECURIOT, valoró especialmente la posibilidad de centralizar l
 | **Distrito** | _Pendiente de completar_ |
 | **Segmento** | Gerente o Dueño de Pyme Industrial |
 | **Medio de entrevista** | Google Meet |
-| **Fecha de entrevista** | _Pendiente de completar_ |
-| **Duración** | _Pendiente de completar_ |
-| **Video de la entrevista** | [Ver entrevista en Google Drive](PEGAR_LINK_DE_GOOGLE_DRIVE) |
+| **Duración** |4:57  |
 
 **Evidencia de entrevista**
 
