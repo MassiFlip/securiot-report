@@ -645,8 +645,8 @@ Todas las entrevistas y respectivas grabaciones fueron almacenadas en **Google D
 | Dato | Información |
 |---|---|
 | **Nombres y apellidos** | Samuel Alzamora |
-| **Edad** | _Pendiente de completar_ |
-| **Distrito** | _Pendiente de completar_ |
+| **Edad** | 20 años |
+| **Distrito** | San Isidro |
 | **Segmento** | Personal de Vigilancia In Situ |
 | **Medio de entrevista** | Google Meet |
 | **Duración** | 4:46 |
@@ -685,7 +685,7 @@ Finalmente, señaló que una solución de seguridad debería ser sencilla de uti
 |---|---|
 | **Nombres y apellidos** | Marco Salvador |
 | **Edad** | 20 años |
-| **Distrito** | _Pendiente de completar_ |
+| **Distrito** | Villa Maria del Triunfo |
 | **Segmento** | Gerente o Dueño de Pyme Industrial |
 | **Medio de entrevista** | Google Meet |
 | **Duración** |13:09 |
@@ -714,7 +714,7 @@ También manifestó preocupación respecto a las falsas alarmas, debido a que un
 |---|---|
 | **Nombres y apellidos** | Aldair Salas |
 | **Edad** | 21 años |
-| **Distrito** | _Pendiente de completar_ |
+| **Distrito** | San Borja |
 | **Segmento** | Gerente o Dueño de Pyme Industrial |
 | **Medio de entrevista** | Google Meet |
 | **Duración** |14:42 |
@@ -743,7 +743,7 @@ En relación con SECURIOT, valoró especialmente la posibilidad de centralizar l
 |---|---|
 | **Nombres y apellidos** | Dania Cárdenas |
 | **Edad** | 21 años |
-| **Distrito** | _Pendiente de completar_ |
+| **Distrito** |Miraflores|
 | **Segmento** | Gerente o Dueño de Pyme Industrial |
 | **Medio de entrevista** | Google Meet |
 | **Duración** |4:57  |
