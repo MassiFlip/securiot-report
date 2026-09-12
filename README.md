@@ -638,6 +638,44 @@ La entrevista seguirá el siguiente orden:
 En esta sección se presenta el registro de las entrevistas realizadas a representantes de los segmentos objetivo de SECURIOT. Para cada participante se incluyen sus datos generales, evidencia visual de la sesión, enlace a la grabación y un resumen descriptivo de los principales hallazgos obtenidos.
 
 Todas las entrevistas y respectivas grabaciones fueron almacenadas en **Google Drive**.
+#### Segmento 2: Personal de Vigilancia In Situ
+
+##### Entrevista 1: Samuel Alzamora
+
+| Dato | Información |
+|---|---|
+| **Nombres y apellidos** | Samuel Alzamora |
+| **Edad** | _Pendiente de completar_ |
+| **Distrito** | _Pendiente de completar_ |
+| **Segmento** | Personal de Vigilancia In Situ |
+| **Medio de entrevista** | Google Meet |
+| **Duración** | 4:46 |
+
+**Evidencia de entrevista**
+
+![Entrevista a Samuel Alzamora](docs/assets/chaper1/IMGs/members/samuel-alzamora.png)
+
+**Resumen de la entrevista**
+
+Samuel Alzamora pertenece al segmento de Personal de Vigilancia In Situ y desarrolla actividades relacionadas con la supervisión de accesos, verificación del ingreso de personas y realización de rondas dentro de las instalaciones.
+
+Durante una jornada habitual utiliza diferentes herramientas para realizar sus funciones, principalmente cámaras de seguridad, radio y teléfono celular. También se emplean registros para documentar ingresos y novedades ocurridas durante el turno.
+
+Respecto al control de accesos, indicó que cuando una persona intenta ingresar a una zona restringida es necesario verificar su identificación y, en situaciones donde existe alguna duda, consultar con un supervisor o responsable del área. Este proceso puede generar demoras cuando la información necesaria no se encuentra disponible inmediatamente.
+
+Ante una situación sospechosa, el personal puede enterarse mediante observación directa durante las rondas, a través de las cámaras de seguridad o mediante comunicación por radio. Después de identificar el evento, debe verificarse lo ocurrido y comunicarlo al supervisor correspondiente para continuar con el protocolo establecido.
+
+Una de las principales dificultades identificadas es la imposibilidad de supervisar simultáneamente todas las zonas y cámaras. Mientras el personal realiza una ronda física, resulta complicado mantener una vigilancia constante sobre los demás puntos de la instalación.
+
+Samuel considera que, frente a una posible intrusión, la información más importante es conocer la ubicación exacta del evento, el tipo de alerta y, cuando sea posible, disponer de una imagen de la persona detectada. Esta información permitiría llegar al lugar con mayor conocimiento de la situación.
+
+En cuanto al uso de tecnología, utiliza principalmente celular y radio. Señaló que pueden existir limitaciones relacionadas con la cobertura de señal y con la dificultad de revisar una pantalla mientras se realizan rondas o desplazamientos.
+
+Respecto a SECURIOT, considera que las alertas deben ser rápidas, claras y contener únicamente información relevante. Asimismo, destacó la importancia de reducir las falsas alarmas, debido a que un exceso de notificaciones incorrectas podría disminuir la atención prestada a futuros eventos.
+
+Finalmente, señaló que una solución de seguridad debería ser sencilla de utilizar, especialmente durante situaciones de emergencia, donde el personal necesita conocer rápidamente qué ocurrió, dónde ocurrió y qué acción debe realizar.
+
+--
 
 #### Segmento 3: Gerente o Dueño de Pyme Industrial
 
